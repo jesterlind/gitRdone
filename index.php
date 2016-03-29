@@ -31,7 +31,7 @@
       <td><a><img src="images/Ghostbusters.jpg" id="ghostbusters" alt="details.php?id=16"/></a></td>
       <td>
       <h1>Ghostbusters</h1>
-      <p>Three odd-ball scientists get kicked out of their cushy positions at a university in New York City where they studied the occult. They decide to set up shop in an old firehouse and become Ghostbusters, trapping pesky ghosts, spirits, haunts, and poltergeists for money. They  wise-crack their way through the city, and stumble upon a gateway to another dimension, one which will release untold evil upon the city. The Ghostbusters are called on to save the Big Apple.</p></td>
+      <p>Let's put a featured block here in the place of Ghostbusters....</p></td>
       <td>
       <a><img src="images/IronMan2.jpg" id="ironman" alt="details.php?id=25"/></a></td>
       <td>
