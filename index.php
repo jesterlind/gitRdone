@@ -26,9 +26,9 @@
     </div>
     <br>
     
-    //featured content//
+    <!--pfeatured content-->
     
-    <div id="featured" class="large-5 large-centered medium-5 medium-centered show-for-small-up columns"><img src="http://www.jesterlind.com/gitRdone/images/banner1.jpg" alt="Star Wars Episode VII"></div></div
+    <div id="featured" class="large-10 large-centered medium-10 medium-centered show-for-small-up columns"><img src="http://www.jesterlind.com/gitRdone/images/banner1.jpg" alt="Star Wars Episode VII"></div></div
     
     
     
