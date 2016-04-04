@@ -1,9 +1,9 @@
 <?php
 	// Set up connection credentials
-	$user = "root";
-	$pass = ""; //"root"
+	$user = "jeste153_git";
+	$pass = "I'malittlepisspot"
 	$url = "localhost";
-	$db = "db_bluray";
+	$db = "jeste153_bluray";
 	
 	//$link = mysqli_connect($url, $user, $pass, $db, "8889"); //Mac
 	$link = mysqli_connect($url, $user, $pass, $db); //PC
