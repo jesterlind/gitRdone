@@ -25,6 +25,7 @@
         <div class="details"></div>
     </div>
     <br>
+    <div id="featured" class="large-5 large-centered medium-5 medium-centered show-for-small-up columns">FEATURED</div>
     <table width="100%" border="0" cellspacing="10" cellpadding="10">
   <tbody>
     <tr>
