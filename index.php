@@ -25,7 +25,14 @@
         <div class="details"></div>
     </div>
     <br>
-    <div id="featured" class="large-5 large-centered medium-5 medium-centered show-for-small-up columns">FEATURED</div>
+    
+    //featured content//
+    
+    <div id="featured" class="large-5 large-centered medium-5 medium-centered show-for-small-up columns"><img src="http://www.jesterlind.com/gitRdone/images/banner1.jpg" alt="Star Wars Episode VII"></div></div
+    
+    
+    
+    
     <table width="100%" border="0" cellspacing="10" cellpadding="10">
   <tbody>
     <tr>
