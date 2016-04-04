@@ -26,13 +26,13 @@
     </div>
     <br>
     
-    <!--pfeatured content-->
+    <!--featured content-->
     
-    <div id="featured" class="large-10 large-centered medium-10 medium-centered show-for-small-up columns"><img src="http://www.jesterlind.com/gitRdone/images/banner1.jpg" alt="Star Wars Episode VII"></div></div
-    
-    
+    <div id="featured" class="large-10 large-centered medium-10 medium-centered show-for-small-up columns"><img src="http://www.jesterlind.com/gitRdone/images/banner1.jpg" alt="Star Wars Episode VII"></div>
     
     
+    
+    <div id="topContent" class="large-12 medium-12 medium-centered show-for-small-up columns">
     <table width="100%" border="0" cellspacing="10" cellpadding="10">
   <tbody>
     <tr>
@@ -58,6 +58,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 <?php include('includes/footer.html'); ?>
 
 <script src="js/utility.js"></script>
