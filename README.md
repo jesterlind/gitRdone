@@ -9,6 +9,10 @@ Jester Lind
 
 https://github.com/jesterlind
 
+Dropbox:
+
+https://www.dropbox.com/s/fhkuwimyhpkxnn3/Stable-Master.zip?dl=0
+
 Evan Horvat
 
 https://github.com/ejhorvat
