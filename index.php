@@ -3,12 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Welcome to the Finest Selection of Blu-rays on the internets!</title>
-	<link href="images/favicon.ico" rel="icon" type="image/x-icon" />
-	<link href="css/foundation.css" rel="stylesheet" type="text/css">
-	<link href="css/foundation.min.css" rel="stylesheet" type="text/css">
-	<link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+  <link href="css/foundation.css" rel="stylesheet" type="text/css">
+  <link href="css/foundation.min.css" rel="stylesheet" type="text/css">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
     <link href="css/main.css" rel="stylesheet" type="text/css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 
 <body>
@@ -16,8 +17,8 @@
 <?php include('includes/nav.html'); ?>
     
     <div class="row">
-    	<div class="large-5 large-centered medium-5 medium-centered show-for-small-up columns" id="results"></div>
-    	<!--pop-up area with search results-->
+      <div class="large-5 large-centered medium-5 medium-centered show-for-small-up columns" id="results"></div>
+      <!--pop-up area with search results-->
     </div>
     
  <div class="row" id="content">
@@ -25,6 +26,30 @@
         <div class="details"></div>
     </div>
     <br>
+    
+    <!--featured content-->
+    
+<div id="slider">
+  <a href="#" class="control_next">>></a>
+  <a href="#" class="control_prev"><</a>
+  <ul>
+    <li><img src="images/banner1.jpg" alt="Banner"/></li>
+    <li><img src="images/banner2.jpg" alt="Banner"/></li>
+    <li><img src="images/banner3.jpg" alt="Banner"/></li>
+    <li><img src="images/banner4.jpg" alt="Banner"/></li>
+  </ul>  
+</div>
+
+<div class="slider_option">
+  <input type="checkbox" id="checkbox">
+  <label for="checkbox">Autoplay Slider</label>
+  <script src="js/slider.js"></script>
+</div> 
+
+
+    
+    
+    <div id="topContent" class="large-12 medium-12 medium-centered show-for-small-up columns">
     <table width="100%" border="0" cellspacing="10" cellpadding="10">
   <tbody>
     <tr>
@@ -50,8 +75,8 @@
     </tr>
   </tbody>
 </table>
+</div>
 <?php include('includes/footer.html'); ?>
-
 <script src="js/utility.js"></script>
 <script src="js/foundation.js"></script>
 </body>
